@@ -13,6 +13,7 @@
         </dlentry>
       </dl>
     </p>
+    <p>John made these changes</p>
     <section id="section_chessboard">
       <title>The Chessboard</title>
       <p>A chessboard consists of 64 square spaces in an 8x8 grid. Sixteen "light" and sixteen
@@ -68,6 +69,19 @@
       <p><u>Movement possibilities for each piece:</u></p>
       <p>
         <dl>
+          <dlentry id="Queen">
+            <dt>Queen</dt>
+            <dd>
+              <ul id="ul_u41_txy_lrb">
+                <li>The queen is the most powerful piece on the board. She can be thought of as the
+                    <b>rook and bishop combined.</b> The queen can move any number of vacant squares
+                    <i>horizontally, vertically or diagonally</i>.</li>
+                <li>Attacking with a queen is the same as with rooks and bishops. That is, she
+                  captures an opponent's piece that lies within her path by moving to that piece's
+                  square.</li>
+              </ul>
+            </dd>
+          </dlentry>
           <dlentry id="Bishop">
             <dt>Bishop</dt>
             <dd>
