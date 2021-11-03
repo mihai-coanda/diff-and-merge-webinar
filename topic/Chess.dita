@@ -65,6 +65,21 @@
       <p><u>Movement possibilities for each piece:</u></p>
       <p>
         <dl>
+          <dlentry id="King">
+            <dt>King</dt>
+            <dd>
+              <ul id="ul_kmm_xxy_lrb">
+                <li>The king can move <b>one</b> space at a time vertically, horizontally or
+                  diagonally. The king is not used as an attacking piece (except perhaps at the very
+                  end of the game) because, since he is so valuable, you want to keep him protected
+                  and out of harm's way. Nonetheless, he is capable of attacking any of the opposing
+                  pieces except the king and queen, to which he cannot get close enough to
+                  capture.</li>
+                <li>Kings are not offensive pieces. Your king is the piece you most want to protect,
+                  because if you lose him, you lose the game.</li>
+              </ul>
+            </dd>
+          </dlentry>
           <dlentry id="Bishop">
             <dt>Bishop</dt>
             <dd>
